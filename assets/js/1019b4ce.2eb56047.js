@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkasm_docs=self.webpackChunkasm_docs||[]).push([[6884],{4826:s=>{s.exports=JSON.parse('{"permalink":"/asm-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

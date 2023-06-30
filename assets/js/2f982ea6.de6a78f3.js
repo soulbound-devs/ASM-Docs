@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkasm_docs=self.webpackChunkasm_docs||[]).push([[3124],{5038:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/asm-docs/blog/tags/facebook","allTagsPath":"/asm-docs/blog/tags","count":1}')}}]);
